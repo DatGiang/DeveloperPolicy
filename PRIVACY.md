@@ -2,7 +2,7 @@
 
 *Cập nhật: 07/10/2026*
 
-MathKids là ứng dụng học toán cho trẻ 3–6 tuổi, do `<tên nhà phát triển>` phát triển.
+MathKids là ứng dụng học toán cho trẻ 3–6 tuổi, do GLab phát triển.
 
 - **Không thu thập dữ liệu cá nhân.** Ứng dụng không yêu cầu tài khoản, không hỏi tên, tuổi, email hay bất kỳ thông tin nào của bé hoặc phụ huynh.
 - **Không kết nối Internet.** Ứng dụng không gửi dữ liệu nào ra khỏi thiết bị và không chứa quảng cáo, công cụ phân tích hay theo dõi của bên thứ ba.
@@ -20,7 +20,7 @@ Liên hệ: tiendatgiang.it@gmail.com
 
 *Last updated: October 7, 2026*
 
-MathKids is a math-learning app for children aged 3–6, developed by `<developer name>`.
+MathKids is a math-learning app for children aged 3–6, developed by GLab.
 
 - **We collect no personal data.** No account is needed and the app never asks for a name, age, email or any other information about the child or parent.
 - **No internet connection.** The app sends no data off the device and contains no ads, analytics or third-party tracking.
