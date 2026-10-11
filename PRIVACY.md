@@ -10,9 +10,9 @@ MathKids là ứng dụng học toán cho trẻ 3–6 tuổi, do `<tên nhà ph�
 - **Không dùng micro, camera, vị trí, danh bạ.** Giọng đọc câu hỏi dùng bộ đọc văn bản có sẵn của hệ điều hành.
 - **Không mua trong ứng dụng.** Khu vực phụ huynh được bảo vệ bằng một câu hỏi để bé không tự thay đổi cài đặt.
 
-Ứng dụng tuân thủ chính sách dành cho trẻ em của Apple App Store (Kids Category) và Google Play (Families), cũng như COPPA và GDPR-K.
+Ứng dụng tuân thủ chính sách dành cho trẻ em của Apple App Store (Kids Category), cũng như COPPA và GDPR-K.
 
-Liên hệ: `<email hỗ trợ>`
+Liên hệ: tiendatgiang.it@gmail.com
 
 ---
 
@@ -28,6 +28,6 @@ MathKids is a math-learning app for children aged 3–6, developed by `<develope
 - **No microphone, camera, location or contacts.** Questions are read aloud with the operating system's built-in text-to-speech.
 - **No in-app purchases.** The parent area is protected by a parental gate so children cannot change settings.
 
-The app follows the Apple App Store Kids Category and Google Play Families policies, COPPA and GDPR-K.
+The app follows the Apple App Store Kids Category policy, COPPA and GDPR-K.
 
-Contact: `<support email>`
+Contact: tiendatgiang.it@gmail.com
